@@ -1,4 +1,5 @@
 This is part of a research project I completed in my final semester for my Computer Science degree
+
 Course: DATA201
 
 This overall goal of this group project was to scrape data from various sources around the web and wrangle the resulting data into a usable dataframe, which can be joined to other tables and/or subsequently analysed.
