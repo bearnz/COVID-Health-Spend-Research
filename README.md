@@ -8,6 +8,7 @@ For my section of the project, I scraped daily COVID-19 case data from the WHO w
 Data sources:
 
 https://covid19.who.int/table
+
 https://data.un.org/
 
 The date that the case data was taken from is the 6/10/2020, however this can be changed to reflect current case numbers from the same data (Line 315)
