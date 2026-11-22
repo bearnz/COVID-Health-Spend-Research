@@ -15,3 +15,12 @@ https://data.un.org/
 The date that the case data was taken from is the 6/10/2020, however this can be changed to reflect current case numbers from the same data (Line 315)
 
 This notebook must be compiled in R.
+
+## Copyright
+
+Copyright (c) 2020 Josh (github.com/bearnz). All rights reserved.
+
+No licence is granted. You are welcome to read this code and to fork it on
+GitHub; you may not use, copy, modify or redistribute it without permission.
+See [NOTICE](NOTICE) for the terms, and open an issue if you would like to use
+any of it.
